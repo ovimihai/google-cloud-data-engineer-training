@@ -8,9 +8,9 @@ To unlock the access to further program elements, please complete the following 
 
 1. **By May 22, 2023**, please complete at least **3** labs in [http://googlecloud.qwiklabs.com](https://googlecloud.qwiklabs.com/discovery). You can choose between the following: 
     - Exploring a BigQuery Public Dataset 
-    -  Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow 
-    -  Predicting Visitor Purchases with a Classification Model with BigQuery ML 
-    -  Vertex AI: Predicting Loan Risk with AutoML 
+    - Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow 
+    - Predicting Visitor Purchases with a Classification Model with BigQuery ML 
+    - Vertex AI: Predicting Loan Risk with AutoML 
 2. If you complete at least**3** of the labs listed above, you will unlock further program elements and receive: 
     - 6 invitations to exam guide review sessions with the trainer. All sessions are 1,5 hours long 
     - 8 weeks of the structured learning program 
