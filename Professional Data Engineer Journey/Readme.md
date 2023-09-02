@@ -1,7 +1,7 @@
 # Quiclkabs materials
 
 ## Courses
-- [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.cloudskillsboost.google/course_templates/54)
+- [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.cloudskillsboost.google/course_templates/54) ([pdf](Modernizing-Data-Lakes-and-Data-Warehouses-with-Google-Cloud.pdf))
 - [Building Batch Data Pipelines on Google Cloud](https://www.cloudskillsboost.google/course_templates/53)
 - [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.cloudskillsboost.google/course_templates/52)
 - [Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.cloudskillsboost.google/course_templates/55)
