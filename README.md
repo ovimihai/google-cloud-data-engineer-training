@@ -16,10 +16,10 @@ A collection of materials used in my training to get the GCP Data Engineer Certi
 
 ## Cheat Sheets
 - [Services](https://googlecloudcheatsheet.withgoogle.com/)
-- [Compute](https://cloud.google.com/products/compute)
+- [Smart Analytics](https://cloud.google.com/solutions/smart-analytics)
+- [AI & ML](https://cloud.google.com/products/ai)
 - [Databases](https://cloud.google.com/products/databases)
 - [CLI](https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf)
-- [K8S](https://lightrun.com/kubectl-cheat-sheet/)
 
 ## Links
 - [Learning Platform](https://www.cloudskillsboost.google/)
