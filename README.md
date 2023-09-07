@@ -14,6 +14,9 @@ A collection of materials used in my training to get the GCP Data Engineer Certi
     - got Cloud Skills Bost free for 2 months
     - needed to finish two badges to get the free voucher
 
+## Sample questions
+- [Quiclkabs questions](T-GCPPDE-A-Locales-6-l9-file-en-57.pdf)
+
 ## Cheat Sheets
 - [Services](https://googlecloudcheatsheet.withgoogle.com/)
 - [Smart Analytics](https://cloud.google.com/solutions/smart-analytics)
