@@ -1,4 +1,4 @@
-# Building Batch Data Pipelines on Google Cloud
+# Preparing for the Google Cloud Professional Data Engineer Exam
 
 ## Course Resources
 
